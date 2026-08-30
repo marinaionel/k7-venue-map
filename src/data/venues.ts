@@ -1904,8 +1904,8 @@ export const venues: Venue[] = [
     region: "Syd- og Vestsjælland",
     type: "Museum",
     url: "https://vestmuseum.dk/odsherreds-museum/",
-    lat: 55.9444,
-    lng: 11.6722,
+    lat: 55.9244,
+    lng: 11.6685,
   },
   {
     name: "Olivia Rodrigo: You Seem Pretty Sad for a Girl in Love",
