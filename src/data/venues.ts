@@ -1720,8 +1720,8 @@ export const venues: Venue[] = [
     region: "Aarhus",
     type: "Museum",
     url: "https://www.ovartaci.dk/",
-    lat: 56.1772,
-    lng: 10.245,
+    lat: 56.1938,
+    lng: 10.2478,
   },
   {
     name: "Museum Silkeborg",
