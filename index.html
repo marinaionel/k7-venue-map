@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>K7 2026 Venue Map</title>
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <h1>K7 2026 Venues</h1>
+        <div class="controls">
+          <label for="region-filter">Region</label>
+          <select id="region-filter"></select>
+          <label for="type-filter">Type</label>
+          <select id="type-filter"></select>
+          <span id="result-count" class="result-count"></span>
+        </div>
+      </header>
+      <div id="map"></div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
