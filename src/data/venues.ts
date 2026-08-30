@@ -2216,8 +2216,8 @@ export const venues: Venue[] = [
     region: "Sydsverige",
     type: "Museum",
     url: "https://www.svedinos.se/",
-    lat: 56.6861,
-    lng: 12.6542,
+    lat: 56.808633,
+    lng: 12.623917,
   },
   {
     name: "Syddjurs Egnsteater",
