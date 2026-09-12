@@ -2808,10 +2808,10 @@ export const venues: Venue[] = [
     region: "Sydsverige",
     type: "Museum",
     url: "https://www.landskrona.se/uppleva-och-gora/kultur/tycho-brahe-museet/",
-    lat: 55.9208,
-    lng: 12.7781,
+    lat: 55.908,
+    lng: 12.695,
     rating: 4.1,
-    reviews: 691,
+    reviews: 704,
   },
   {
     name: "Utzon Center",
