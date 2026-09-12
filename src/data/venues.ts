@@ -716,6 +716,8 @@ export const venues: Venue[] = [
     url: "https://museumoj.randers.dk/aabningstider/ebeltoft-byhistoriske-arkiv/",
     lat: 56.2022,
     lng: 10.6781,
+    rating: 4.8,
+    reviews: 6,
   },
   {
     name: "Ehlers Samlingen",
