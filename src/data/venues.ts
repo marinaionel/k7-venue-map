@@ -46,6 +46,8 @@ export const venues: Venue[] = [
     url: "https://nordjyskemuseer.dk/u/aalborg-historiske-museum/",
     lat: 57.048,
     lng: 9.9217,
+    rating: 4.3,
+    reviews: 409,
   },
   {
     name: "Aalborg Symfoniorkester",
@@ -102,6 +104,8 @@ export const venues: Venue[] = [
     url: "https://www.museumamager.dk/",
     lat: 55.6064,
     lng: 12.6278,
+    rating: 4.4,
+    reviews: 257,
   },
   {
     name: "Amalienborgmuseet",
@@ -110,6 +114,8 @@ export const venues: Venue[] = [
     url: "https://www.kongernessamling.dk/amalienborg/",
     lat: 55.684,
     lng: 12.5933,
+    rating: 4.2,
+    reviews: 1283,
   },
   {
     name: "Anchers Hus",
@@ -118,6 +124,8 @@ export const venues: Venue[] = [
     url: "https://skagenskunstmuseer.dk/museer/anchers-hus/",
     lat: 57.7208,
     lng: 10.5881,
+    rating: 4.5,
+    reviews: 569,
   },
   {
     name: "Arbejdermuseet",
@@ -126,6 +134,8 @@ export const venues: Venue[] = [
     url: "https://www.arbejdermuseet.dk",
     lat: 55.6817,
     lng: 12.5711,
+    rating: 4.4,
+    reviews: 2635,
   },
   {
     name: "ARKEN",
@@ -134,6 +144,8 @@ export const venues: Venue[] = [
     url: "https://www.arken.dk/",
     lat: 55.6154,
     lng: 12.3514,
+    rating: 4.3,
+    reviews: 5104,
   },
   {
     name: "Arkæologi Haderslev",
@@ -142,6 +154,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/museum-arkaeologi/",
     lat: 55.2497,
     lng: 9.4919,
+    rating: 4.5,
+    reviews: 273,
   },
   {
     name: "ARoS",
@@ -150,6 +164,8 @@ export const venues: Venue[] = [
     url: "https://www.aros.dk/da/",
     lat: 56.154,
     lng: 10.1995,
+    rating: 4.5,
+    reviews: 13758,
   },
   {
     name: "Arresten",
@@ -158,6 +174,8 @@ export const venues: Venue[] = [
     url: "https://www.ohavsmuseet.dk/arresten/",
     lat: 55.0598,
     lng: 10.6069,
+    rating: 4.5,
+    reviews: 284,
   },
   {
     name: "Aveny-T",
@@ -198,6 +216,8 @@ export const venues: Venue[] = [
     url: "https://www.bankogsparekassemuseet.dk/",
     lat: 55.6761,
     lng: 12.5683,
+    rating: 4.6,
+    reviews: 43,
   },
   {
     name: "Besættelsesmuseet",
@@ -206,6 +226,8 @@ export const venues: Venue[] = [
     url: "https://www.besaettelsesmuseet.dk/",
     lat: 56.1629,
     lng: 10.2039,
+    rating: 4.6,
+    reviews: 339,
   },
   {
     name: "Blaagaard Teater",
@@ -222,6 +244,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/blaavandshuk-fyr-4/",
     lat: 55.5578,
     lng: 8.0811,
+    rating: 4.6,
+    reviews: 8757,
   },
   {
     name: "Bogstad Gård",
@@ -230,6 +254,8 @@ export const venues: Venue[] = [
     url: "https://bogstad.no/",
     lat: 59.9625,
     lng: 10.6339,
+    rating: 4.6,
+    reviews: 918,
   },
   {
     name: "Bones and All (Cinemateket)",
@@ -254,6 +280,8 @@ export const venues: Venue[] = [
     url: "https://bornholms-kunstmuseum.dk/da/",
     lat: 55.2139,
     lng: 14.9706,
+    rating: 4.4,
+    reviews: 1046,
   },
   {
     name: "Bornholms Museum",
@@ -262,6 +290,8 @@ export const venues: Venue[] = [
     url: "https://bornholmsmuseum.dk/",
     lat: 55.1013,
     lng: 14.6997,
+    rating: 4.3,
+    reviews: 489,
   },
   {
     name: "Bovbjerg Fyr",
@@ -270,6 +300,8 @@ export const venues: Venue[] = [
     url: "https://bovbjergfyr.dk/",
     lat: 56.5308,
     lng: 8.1731,
+    rating: 4.7,
+    reviews: 4504,
   },
   {
     name: "Bunkermuseum Hanstholm",
@@ -278,6 +310,8 @@ export const venues: Venue[] = [
     url: "https://bunkermuseumhanstholm.dk/",
     lat: 57.1107,
     lng: 8.6111,
+    rating: 4.6,
+    reviews: 5813,
   },
   {
     name: "C:NTACT",
@@ -302,6 +336,8 @@ export const venues: Venue[] = [
     url: "https://barndomshjem.carlnielsen.org/",
     lat: 55.2908,
     lng: 10.4576,
+    rating: 4.2,
+    reviews: 77,
   },
   {
     name: "Carl Nielsen Museet",
@@ -310,6 +346,8 @@ export const venues: Venue[] = [
     url: "https://museumodense.dk/carl-nielsen-museet/",
     lat: 55.3967,
     lng: 10.3889,
+    rating: 4.5,
+    reviews: 52,
   },
   {
     name: "Carl-Henning Pedersen & Else Alfelts Museum",
@@ -318,6 +356,8 @@ export const venues: Venue[] = [
     url: "https://chpeamuseum.dk/forside.aspx",
     lat: 56.1338,
     lng: 9.027,
+    rating: 4.5,
+    reviews: 252,
   },
   {
     name: "Cathrinesminde Teglværk",
@@ -326,6 +366,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/cathrinesminde/",
     lat: 54.8267,
     lng: 9.3614,
+    rating: 4.5,
+    reviews: 612,
   },
   {
     name: "Christiansborg Slot",
@@ -334,6 +376,8 @@ export const venues: Venue[] = [
     url: "https://denkongeligesamling.dk/christiansborg-slot/",
     lat: 55.6762,
     lng: 12.5809,
+    rating: 4.7,
+    reviews: 3182,
   },
   {
     name: "Christiansfeld",
@@ -342,6 +386,8 @@ export const venues: Venue[] = [
     url: "https://museumkolding.dk/christiansfeld/",
     lat: 55.3567,
     lng: 9.4906,
+    rating: 4.4,
+    reviews: 307,
   },
   {
     name: "Cirkusmuseet",
@@ -350,6 +396,8 @@ export const venues: Venue[] = [
     url: "https://cirkusmuseet.dk/",
     lat: 55.6761,
     lng: 12.5683,
+    rating: 4.3,
+    reviews: 466,
   },
   {
     name: "Cisternerne",
@@ -358,6 +406,8 @@ export const venues: Venue[] = [
     url: "https://frederiksbergmuseerne.dk/da/cisternerne/",
     lat: 55.66,
     lng: 12.52,
+    rating: 4.3,
+    reviews: 2310,
   },
   {
     name: "CLAY Keramikmuseum Danmark",
@@ -366,6 +416,8 @@ export const venues: Venue[] = [
     url: "https://claymuseum.dk/",
     lat: 55.5059,
     lng: 9.7307,
+    rating: 4.5,
+    reviews: 1464,
   },
   {
     name: "Copenhagen Contemporary",
@@ -374,6 +426,8 @@ export const venues: Venue[] = [
     url: "https://copenhagencontemporary.org/en/",
     lat: 55.6929,
     lng: 12.6049,
+    rating: 4.4,
+    reviews: 2166,
   },
   {
     name: "Copenhagen Phil",
@@ -390,6 +444,8 @@ export const venues: Venue[] = [
     url: "https://www.museerne.dk/danmarks-borgcenter/",
     lat: 55.0083,
     lng: 11.9056,
+    rating: 4.4,
+    reviews: 594,
   },
   {
     name: "Danmarks Forsorgsmuseum",
@@ -398,6 +454,8 @@ export const venues: Venue[] = [
     url: "https://forsorgsmuseet.dk/de-uvaerdige/",
     lat: 55.0598,
     lng: 10.6069,
+    rating: 4.6,
+    reviews: 965,
   },
   {
     name: "Danmarks Jernbanemuseum",
@@ -406,6 +464,8 @@ export const venues: Venue[] = [
     url: "https://www.jernbanemuseet.dk/",
     lat: 55.4038,
     lng: 10.4024,
+    rating: 4.7,
+    reviews: 3373,
   },
   {
     name: "Danmarks Lodsmuseum",
@@ -422,6 +482,8 @@ export const venues: Venue[] = [
     url: "https://tekniskmuseum.dk/",
     lat: 56.0308,
     lng: 12.5921,
+    rating: 4.4,
+    reviews: 2320,
   },
   {
     name: "Dansehallerne",
@@ -454,6 +516,8 @@ export const venues: Venue[] = [
     url: "https://dac.dk/",
     lat: 55.6758,
     lng: 12.5763,
+    rating: 4.3,
+    reviews: 4782,
   },
   {
     name: "Dansk Jødisk Museum",
@@ -462,6 +526,8 @@ export const venues: Venue[] = [
     url: "https://www.jewmus.dk/",
     lat: 55.6796,
     lng: 12.5854,
+    rating: 4.1,
+    reviews: 382,
   },
   {
     name: "Davids Samling",
@@ -470,6 +536,8 @@ export const venues: Venue[] = [
     url: "https://www.davidmus.dk/",
     lat: 55.684,
     lng: 12.582,
+    rating: 4.7,
+    reviews: 1862,
   },
   {
     name: "Den Frie Udstillingsbygning",
@@ -478,6 +546,8 @@ export const venues: Venue[] = [
     url: "https://denfrie.dk/",
     lat: 55.6878,
     lng: 12.5897,
+    rating: 3.9,
+    reviews: 287,
   },
   {
     name: "Den Fynske Landsby",
@@ -486,6 +556,8 @@ export const venues: Venue[] = [
     url: "https://denfynskelandsby.dk/dk/",
     lat: 55.39,
     lng: 10.3667,
+    rating: 4.5,
+    reviews: 3121,
   },
   {
     name: "Den Gamle By",
@@ -494,6 +566,8 @@ export const venues: Venue[] = [
     url: "https://www.dengamleby.dk/",
     lat: 56.1598,
     lng: 10.1928,
+    rating: 4.6,
+    reviews: 19304,
   },
   {
     name: "Den Hirschsprungske Samling",
@@ -502,6 +576,8 @@ export const venues: Venue[] = [
     url: "https://www.hirschsprung.dk/",
     lat: 55.6908,
     lng: 12.5758,
+    rating: 4.6,
+    reviews: 820,
   },
   {
     name: "Den Sorte Diamant",
@@ -510,6 +586,8 @@ export const venues: Venue[] = [
     url: "https://www.kb.dk/besoeg-os/den-sorte-diamant",
     lat: 55.6735,
     lng: 12.5825,
+    rating: 4.6,
+    reviews: 1871,
   },
   {
     name: "Designmuseum Danmark",
@@ -518,6 +596,8 @@ export const venues: Venue[] = [
     url: "https://designmuseum.dk/",
     lat: 55.687,
     lng: 12.595,
+    rating: 4.3,
+    reviews: 8452,
   },
   {
     name: "Det Gamle Rådhus og Siamesisk Samling",
@@ -526,6 +606,8 @@ export const venues: Venue[] = [
     url: "https://museumoj.randers.dk/aabningstider/det-gamle-raadhus/",
     lat: 56.0917,
     lng: 8.2433,
+    rating: 4.4,
+    reviews: 234,
   },
   {
     name: "Det Grønne Museum",
@@ -534,6 +616,8 @@ export const venues: Venue[] = [
     url: "https://detgroennemuseum.dk/",
     lat: 55.7167,
     lng: 9.3167,
+    rating: 4.5,
+    reviews: 345,
   },
   {
     name: "Det Jyske Musikkonservatorium",
@@ -582,6 +666,8 @@ export const venues: Venue[] = [
     url: "https://www.museummoss.dk/",
     lat: 56.5667,
     lng: 9.0306,
+    rating: 4.7,
+    reviews: 45,
   },
   {
     name: "Drachmanns Hus",
@@ -590,6 +676,8 @@ export const venues: Venue[] = [
     url: "https://skagenskunstmuseer.dk/museer/drachmanns-hus/",
     lat: 57.7172,
     lng: 10.59,
+    rating: 4.4,
+    reviews: 586,
   },
   {
     name: "Dragør Museum",
@@ -598,6 +686,8 @@ export const venues: Venue[] = [
     url: "https://www.museumamager.dk/index.php?id=50&L=0%2527%2527%27",
     lat: 55.5933,
     lng: 12.6802,
+    rating: 4.4,
+    reviews: 50,
   },
   {
     name: "Drøhses Hus",
@@ -606,6 +696,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/droehses-hus/",
     lat: 55.0405,
     lng: 9.4172,
+    rating: 4.3,
+    reviews: 35,
   },
   {
     name: "Dunkers kulturhus",
@@ -614,6 +706,8 @@ export const venues: Venue[] = [
     url: "https://dunkerskulturhus.se",
     lat: 56.0485,
     lng: 12.6952,
+    rating: 4.3,
+    reviews: 1529,
   },
   {
     name: "Ebeltoft Byhistoriske Arkiv",
@@ -630,6 +724,8 @@ export const venues: Venue[] = [
     url: "https://www.historiehaderslev.dk/ehlers-samlingen-er-et-skattekammer/",
     lat: 55.2497,
     lng: 9.4919,
+    rating: 4.4,
+    reviews: 83,
   },
   {
     name: "Eidsvoll 1814",
@@ -638,6 +734,8 @@ export const venues: Venue[] = [
     url: "https://eidsvoll1814.no/",
     lat: 60.3016,
     lng: 11.2497,
+    rating: 4.6,
+    reviews: 1543,
   },
   {
     name: "ENIGMA",
@@ -646,6 +744,8 @@ export const venues: Venue[] = [
     url: "https://www.enigma.dk/",
     lat: 55.6833,
     lng: 12.5717,
+    rating: 4.1,
+    reviews: 578,
   },
   {
     name: "Ensemble Midtvest",
@@ -668,6 +768,8 @@ export const venues: Venue[] = [
     url: "https://bornholmsmuseum.dk/da/bes%C3%B8g/erichsens-g%C3%A5rd/",
     lat: 55.1013,
     lng: 14.6997,
+    rating: 4.4,
+    reviews: 106,
   },
   {
     name: "Esbjerg Kunstmuseum",
@@ -676,6 +778,8 @@ export const venues: Venue[] = [
     url: "https://www.eskum.dk/",
     lat: 55.4687,
     lng: 8.449,
+    rating: 4.3,
+    reviews: 260,
   },
   {
     name: "Esbjerg Museum",
@@ -684,6 +788,8 @@ export const venues: Venue[] = [
     url: "https://www.esbjergmuseum.dk",
     lat: 55.4765,
     lng: 8.4594,
+    rating: 4.4,
+    reviews: 266,
   },
   {
     name: "Esrum Kloster",
@@ -692,6 +798,8 @@ export const venues: Venue[] = [
     url: "https://esrum.dk/portfolio/kloster-for-begyndere/",
     lat: 56.0347,
     lng: 12.3767,
+    rating: 4.3,
+    reviews: 1432,
   },
   {
     name: "Faaborg Museum",
@@ -700,6 +808,8 @@ export const venues: Venue[] = [
     url: "https://www.faaborgmuseum.dk/",
     lat: 55.0953,
     lng: 10.2423,
+    rating: 4.4,
+    reviews: 701,
   },
   {
     name: "Fiskeri- og Søfartsmuseet",
@@ -708,6 +818,8 @@ export const venues: Venue[] = [
     url: "https://fimus.dk/",
     lat: 55.4767,
     lng: 8.4339,
+    rating: 4.5,
+    reviews: 4722,
   },
   {
     name: "Flakkebjerg Skolemuseum",
@@ -716,6 +828,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/flakkebjerg-skolemuseum/",
     lat: 55.3272,
     lng: 11.3831,
+    rating: 4.7,
+    reviews: 21,
   },
   {
     name: "FLUGT – Refugee Museum of Denmark",
@@ -724,6 +838,8 @@ export const venues: Venue[] = [
     url: "https://flugtmuseum.dk/",
     lat: 55.6192,
     lng: 8.2864,
+    rating: 4.6,
+    reviews: 1372,
   },
   {
     name: "Folketeatret",
@@ -740,6 +856,8 @@ export const venues: Venue[] = [
     url: "https://www.oesm.dk/fort_a-cold-war-experience/",
     lat: 55.2806,
     lng: 12.4594,
+    rating: 4.6,
+    reviews: 2413,
   },
   {
     name: "Fotografisk Center",
@@ -748,6 +866,8 @@ export const venues: Venue[] = [
     url: "https://www.fotografiskcenter.dk/",
     lat: 55.6761,
     lng: 12.5683,
+    rating: 4.2,
+    reviews: 71,
   },
   {
     name: "Frederiksberg Festspil",
@@ -764,6 +884,8 @@ export const venues: Venue[] = [
     url: "https://dnm.dk/",
     lat: 55.9348,
     lng: 12.3009,
+    rating: 4.7,
+    reviews: 13776,
   },
   {
     name: "Frederikshavn Kunstmuseum",
@@ -772,6 +894,8 @@ export const venues: Venue[] = [
     url: "https://frederikshavnkunstmuseum.dk/",
     lat: 57.4374,
     lng: 10.5502,
+    rating: 4,
+    reviews: 73,
   },
   {
     name: "Fregatten Jylland",
@@ -780,6 +904,8 @@ export const venues: Venue[] = [
     url: "https://www.fregatten-jylland.dk/",
     lat: 56.2,
     lng: 10.674,
+    rating: 4.5,
+    reviews: 4209,
   },
   {
     name: "Frihedsmuseet",
@@ -788,6 +914,8 @@ export const venues: Venue[] = [
     url: "https://natmus.dk/museer-og-slotte/frihedsmuseet/",
     lat: 55.689,
     lng: 12.5773,
+    rating: 4.4,
+    reviews: 1483,
   },
   {
     name: "Frilandsmuseet Herning",
@@ -796,6 +924,8 @@ export const venues: Venue[] = [
     url: "https://museummidtjylland.dk/frilandsmuseet-herning/",
     lat: 56.1362,
     lng: 8.9768,
+    rating: 4.1,
+    reviews: 83,
   },
   {
     name: "Frilandsmuseet Hjerl Hede",
@@ -804,6 +934,8 @@ export const venues: Venue[] = [
     url: "https://hjerlhede.dk/",
     lat: 56.47,
     lng: 8.58,
+    rating: 4.5,
+    reviews: 3089,
   },
   {
     name: "Frøslevlejrens Museum",
@@ -812,6 +944,8 @@ export const venues: Venue[] = [
     url: "https://natmus.dk/museer-og-slotte/froeslevlejrens-museum/",
     lat: 54.8203,
     lng: 9.3267,
+    rating: 4.4,
+    reviews: 1275,
   },
   {
     name: "Fuglsang Kunstmuseum",
@@ -820,6 +954,8 @@ export const venues: Venue[] = [
     url: "https://fuglsangkunstmuseum.dk/",
     lat: 54.7928,
     lng: 11.795,
+    rating: 4.5,
+    reviews: 974,
   },
   {
     name: "FÆNGSELSMUSEET",
@@ -828,6 +964,8 @@ export const venues: Venue[] = [
     url: "https://www.faengslet.dk/oplevelser/besoeg-faengselsmuseet/",
     lat: 55.8606,
     lng: 9.8253,
+    rating: 4.5,
+    reviews: 5739,
   },
   {
     name: "Gaarden - Bornholms Madkulturhus",
@@ -836,6 +974,8 @@ export const venues: Venue[] = [
     url: "https://gaarden.nu/da/madkulturhus/",
     lat: 55.0267,
     lng: 14.9808,
+    rating: 4.4,
+    reviews: 474,
   },
   {
     name: "Gammel Estrup",
@@ -844,6 +984,8 @@ export const venues: Venue[] = [
     url: "https://gammelestrup.dk/",
     lat: 56.5206,
     lng: 10.4225,
+    rating: 4.6,
+    reviews: 2145,
   },
   {
     name: "Geocenter Møns Klint",
@@ -852,6 +994,8 @@ export const venues: Venue[] = [
     url: "https://moensklint.dk/",
     lat: 54.9639,
     lng: 12.5522,
+    rating: 4.5,
+    reviews: 6301,
   },
   {
     name: "Gl. Holtegaard",
@@ -868,6 +1012,8 @@ export const venues: Venue[] = [
     url: "https://www.glaskunst.dk/",
     lat: 56.2017,
     lng: 10.68,
+    rating: 4.2,
+    reviews: 1011,
   },
   {
     name: "GLiMT AMAGER",
@@ -884,6 +1030,8 @@ export const venues: Venue[] = [
     url: "https://gludmuseum.dk/",
     lat: 55.8528,
     lng: 10.1089,
+    rating: 4.5,
+    reviews: 527,
   },
   {
     name: "Glyptoteket",
@@ -892,6 +1040,8 @@ export const venues: Venue[] = [
     url: "https://glyptoteket.dk/",
     lat: 55.6724,
     lng: 12.5714,
+    rating: 4.6,
+    reviews: 15155,
   },
   {
     name: "Gram Lergrav Palæontologi",
@@ -900,6 +1050,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/gram-lergrav-palaeontologi/",
     lat: 55.2905,
     lng: 9.0465,
+    rating: 4.5,
+    reviews: 345,
   },
   {
     name: "Grenaa Museum",
@@ -908,6 +1060,8 @@ export const venues: Venue[] = [
     url: "https://museumoj.randers.dk/aabningstider/museum-oestjylland-grenaa/",
     lat: 56.4092,
     lng: 10.8767,
+    rating: 4.6,
+    reviews: 325,
   },
   {
     name: "Greve Museum",
@@ -916,6 +1070,8 @@ export const venues: Venue[] = [
     url: "https://grevemuseum.dk/",
     lat: 55.5833,
     lng: 12.2939,
+    rating: 4.3,
+    reviews: 290,
   },
   {
     name: "H.C. Andersens Barndomshjem",
@@ -924,6 +1080,8 @@ export const venues: Venue[] = [
     url: "https://hcandersenshus.dk/barndomshjem/",
     lat: 55.395,
     lng: 10.3869,
+    rating: 4.1,
+    reviews: 1667,
   },
   {
     name: "H.C. Andersens Hus",
@@ -932,6 +1090,8 @@ export const venues: Venue[] = [
     url: "https://hcandersenshus.dk/",
     lat: 55.3989,
     lng: 10.3908,
+    rating: 4.2,
+    reviews: 7709,
   },
   {
     name: "H2O",
@@ -964,6 +1124,8 @@ export const venues: Venue[] = [
     url: "https://www.heartmus.dk/",
     lat: 56.1336,
     lng: 8.957,
+    rating: 4.2,
+    reviews: 599,
   },
   {
     name: "Helnæs Kultur- og Musikforening",
@@ -980,6 +1142,8 @@ export const venues: Venue[] = [
     url: "https://museumthy.dk/",
     lat: 56.7628,
     lng: 8.4611,
+    rating: 4.4,
+    reviews: 144,
   },
   {
     name: "Henie Onstad Kunstsenter",
@@ -988,6 +1152,8 @@ export const venues: Venue[] = [
     url: "https://www.hok.no/",
     lat: 59.8933,
     lng: 10.5653,
+    rating: 4.4,
+    reviews: 1468,
   },
   {
     name: "Hereditary (Cinemateket)",
@@ -1004,6 +1170,8 @@ export const venues: Venue[] = [
     url: "https://museummidtjylland.dk/herningsholm-museum/",
     lat: 56.1519,
     lng: 8.9447,
+    rating: 4.2,
+    reviews: 88,
   },
   {
     name: "HEX! Museum of Witch Hunt",
@@ -1012,6 +1180,8 @@ export const venues: Venue[] = [
     url: "https://www.hexmuseum.dk/",
     lat: 55.329,
     lng: 8.7613,
+    rating: 4.3,
+    reviews: 578,
   },
   {
     name: "Historiska Museet",
@@ -1020,6 +1190,8 @@ export const venues: Venue[] = [
     url: "https://www.historiskamuseet.lu.se/",
     lat: 55.7058,
     lng: 13.1931,
+    rating: 4.4,
+    reviews: 373,
   },
   {
     name: "Hjedding Andelsmejeri",
@@ -1028,6 +1200,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/hjedding-andelsmejeri-3/",
     lat: 55.8067,
     lng: 8.6183,
+    rating: 3.9,
+    reviews: 16,
   },
   {
     name: "Hjorths Fabrik",
@@ -1036,6 +1210,8 @@ export const venues: Venue[] = [
     url: "https://bornholmsmuseum.dk/da/bes%C3%B8g/hjorths-fabrik/",
     lat: 55.1022,
     lng: 14.7003,
+    rating: 4.4,
+    reviews: 394,
   },
   {
     name: "Hodde Gamle Skole",
@@ -1044,6 +1220,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/hodde-gamle-skole/",
     lat: 55.6231,
     lng: 8.5839,
+    rating: 3.7,
+    reviews: 20,
   },
   {
     name: "Holbæk Museum",
@@ -1052,6 +1230,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/holbaek-museum/",
     lat: 55.7167,
     lng: 11.7167,
+    rating: 4.4,
+    reviews: 293,
   },
   {
     name: "Holmegaard Værk",
@@ -1060,6 +1240,8 @@ export const venues: Venue[] = [
     url: "https://www.museerne.dk/holmegaard-vaerk/",
     lat: 55.3344,
     lng: 11.8447,
+    rating: 4.2,
+    reviews: 1561,
   },
   {
     name: "Holstebro Kunstmuseum",
@@ -1068,6 +1250,8 @@ export const venues: Venue[] = [
     url: "https://holstebrokunstmuseum.dk/",
     lat: 56.3594,
     lng: 8.6161,
+    rating: 4.5,
+    reviews: 169,
   },
   {
     name: "Holstebro Museum",
@@ -1076,6 +1260,8 @@ export const venues: Venue[] = [
     url: "https://holstebro-museum.dk/",
     lat: 56.3599,
     lng: 8.6136,
+    rating: 4.4,
+    reviews: 100,
   },
   {
     name: "Horsens Kunstmuseum",
@@ -1092,6 +1278,8 @@ export const venues: Venue[] = [
     url: "https://museumhorsens.dk/",
     lat: 55.8607,
     lng: 9.8503,
+    rating: 4.2,
+    reviews: 116,
   },
   {
     name: "Husets Teater",
@@ -1108,6 +1296,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/hoejer-moelle/",
     lat: 54.9642,
     lng: 8.695,
+    rating: 4.5,
+    reviews: 93,
   },
   {
     name: "I Was a Teenage Sex Pistol (Cinemateket)",
@@ -1132,6 +1322,8 @@ export const venues: Venue[] = [
     url: "https://industrimuseet.dk/",
     lat: 55.8607,
     lng: 9.8503,
+    rating: 4.6,
+    reviews: 1332,
   },
   {
     name: "Interkulturelt Museum",
@@ -1140,6 +1332,8 @@ export const venues: Venue[] = [
     url: "https://www.oslomuseum.no/besok-oss/interkulturelt-museum/",
     lat: 59.9208,
     lng: 10.78,
+    rating: 4.3,
+    reviews: 245,
   },
   {
     name: "It's Never Over, Jeff Buckley (Cinemateket)",
@@ -1156,6 +1350,8 @@ export const venues: Venue[] = [
     url: "https://jacobariismuseum.dk/",
     lat: 55.3289,
     lng: 8.7613,
+    rating: 4.8,
+    reviews: 145,
   },
   {
     name: "JANUS – Vestjyllands Kunstmuseum",
@@ -1164,6 +1360,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/janus-4/",
     lat: 55.6231,
     lng: 8.5839,
+    rating: 4.1,
+    reviews: 78,
   },
   {
     name: "Johannes Larsens Museet",
@@ -1172,6 +1370,8 @@ export const venues: Venue[] = [
     url: "https://johanneslarsenmuseet.dk/",
     lat: 55.4478,
     lng: 10.6572,
+    rating: 4.6,
+    reviews: 1306,
   },
   {
     name: "Juice (Cinemateket)",
@@ -1188,6 +1388,8 @@ export const venues: Venue[] = [
     url: "https://www.oesm.dk/kalk_museum/",
     lat: 55.2278,
     lng: 12.1377,
+    rating: 4.3,
+    reviews: 845,
   },
   {
     name: "Kalundborg Museum",
@@ -1196,6 +1398,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/kalundborg-museum/",
     lat: 55.68,
     lng: 11.093,
+    rating: 4.4,
+    reviews: 216,
   },
   {
     name: "Kammermusik Odense",
@@ -1220,6 +1424,8 @@ export const venues: Venue[] = [
     url: "https://www.kastrupgaardsamlingen.dk/",
     lat: 55.6247,
     lng: 12.6444,
+    rating: 4.6,
+    reviews: 341,
   },
   {
     name: "Kivik Art Centre",
@@ -1228,6 +1434,8 @@ export const venues: Venue[] = [
     url: "https://www.kivikart.se/",
     lat: 55.6908,
     lng: 14.2286,
+    rating: 3.9,
+    reviews: 196,
   },
   {
     name: "KKAM Museum",
@@ -1236,6 +1444,8 @@ export const venues: Venue[] = [
     url: "https://kkam.nu/",
     lat: 56.2008,
     lng: 12.5553,
+    rating: 4.3,
+    reviews: 227,
   },
   {
     name: "Klassisk Christiansfeld",
@@ -1252,6 +1462,8 @@ export const venues: Venue[] = [
     url: "https://museummidtjylland.dk/klosterlund-museum/",
     lat: 56.1442,
     lng: 9.2967,
+    rating: 4.5,
+    reviews: 201,
   },
   {
     name: "Klostret i Ystad - Ystads stadsmuseum",
@@ -1260,6 +1472,8 @@ export const venues: Venue[] = [
     url: "https://ystad.se/uppleva-och-gora/kultur-och-upplevelser/klostret-i-ystad",
     lat: 55.4298,
     lng: 13.8206,
+    rating: 4.4,
+    reviews: 987,
   },
   {
     name: "Koldinghus",
@@ -1268,6 +1482,8 @@ export const venues: Venue[] = [
     url: "https://www.kongernessamling.dk/koldinghus/",
     lat: 55.4647,
     lng: 9.4778,
+    rating: 4.5,
+    reviews: 6394,
   },
   {
     name: "Kongernes Jelling",
@@ -1276,6 +1492,8 @@ export const venues: Venue[] = [
     url: "https://natmus.dk/museer-og-slotte/kongernes-jelling/",
     lat: 55.7572,
     lng: 9.4175,
+    rating: 4.7,
+    reviews: 2696,
   },
   {
     name: "Korsør By-og Overfartsmuseum",
@@ -1284,6 +1502,8 @@ export const venues: Venue[] = [
     url: "https://byogoverfartsmuseet.dk/",
     lat: 55.3297,
     lng: 11.1397,
+    rating: 4.3,
+    reviews: 122,
   },
   {
     name: "Krigsmuseet",
@@ -1292,6 +1512,8 @@ export const venues: Venue[] = [
     url: "https://natmus.dk/museer-og-slotte/krigsmuseet/",
     lat: 55.6736,
     lng: 12.5803,
+    rating: 4.5,
+    reviews: 2519,
   },
   {
     name: "Kroppedal Museum",
@@ -1300,6 +1522,8 @@ export const venues: Venue[] = [
     url: "https://kroppedal.dk/",
     lat: 55.6506,
     lng: 12.3081,
+    rating: 4.3,
+    reviews: 348,
   },
   {
     name: "Kulturhistorie Aabenraa",
@@ -1308,6 +1532,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/kulturhistorie-aabenraa/",
     lat: 55.0405,
     lng: 9.4172,
+    rating: 4.4,
+    reviews: 47,
   },
   {
     name: "Kulturhistorie Tønder",
@@ -1316,6 +1542,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/kulturhistorie-toender/",
     lat: 54.9333,
     lng: 8.8667,
+    rating: 4.4,
+    reviews: 360,
   },
   {
     name: "Kulturhistorisk museum",
@@ -1324,6 +1552,8 @@ export const venues: Venue[] = [
     url: "https://www.khm.uio.no/",
     lat: 59.9167,
     lng: 10.7353,
+    rating: 4.1,
+    reviews: 3174,
   },
   {
     name: "Kulturhuset Randers",
@@ -1332,6 +1562,8 @@ export const venues: Venue[] = [
     url: "https://www.randers.dk/oplev/bibliotek-og-kulturhuse/kulturhuset/",
     lat: 56.4607,
     lng: 10.0366,
+    rating: 4.6,
+    reviews: 422,
   },
   {
     name: "Kunsten",
@@ -1340,6 +1572,8 @@ export const venues: Venue[] = [
     url: "https://kunsten.dk/da",
     lat: 57.0289,
     lng: 9.9508,
+    rating: 4.4,
+    reviews: 2087,
   },
   {
     name: "Kunsthal Aarhus",
@@ -1348,6 +1582,8 @@ export const venues: Venue[] = [
     url: "https://kunsthal.dk/",
     lat: 56.1542,
     lng: 10.2106,
+    rating: 4.1,
+    reviews: 331,
   },
   {
     name: "Kunsthal Holmen",
@@ -1356,6 +1592,8 @@ export const venues: Venue[] = [
     url: "https://kunsthalholmen.dk/",
     lat: 55.0572,
     lng: 8.9375,
+    rating: 4.5,
+    reviews: 34,
   },
   {
     name: "Kunsthal Kongegaarden",
@@ -1364,6 +1602,8 @@ export const venues: Venue[] = [
     url: "https://kongegaarden.dk/",
     lat: 55.3297,
     lng: 11.1397,
+    rating: 4.4,
+    reviews: 85,
   },
   {
     name: "Kunsthal n",
@@ -1372,6 +1612,8 @@ export const venues: Venue[] = [
     url: "https://kunsthaln.dk/da/",
     lat: 55.6836,
     lng: 12.5431,
+    rating: 4.8,
+    reviews: 23,
   },
   {
     name: "Kunstmuseet i Tønder",
@@ -1380,6 +1622,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/kunstmuseet-i-toender/",
     lat: 54.9333,
     lng: 8.8667,
+    rating: 4.6,
+    reviews: 144,
   },
   {
     name: "Kunstmuseum Brandts",
@@ -1388,6 +1632,8 @@ export const venues: Venue[] = [
     url: "https://brandts.dk/",
     lat: 55.3969,
     lng: 10.3872,
+    rating: 4.4,
+    reviews: 1198,
   },
   {
     name: "Kunstsilo",
@@ -1396,6 +1642,8 @@ export const venues: Venue[] = [
     url: "https://www.kunstsilo.no/en",
     lat: 58.1571,
     lng: 8.0061,
+    rating: 4.6,
+    reviews: 629,
   },
   {
     name: "Kystmuseet Bangsbo",
@@ -1404,6 +1652,8 @@ export const venues: Venue[] = [
     url: "https://www.kystmuseet.dk/besoeg-os/kystmuseet-bangsbo",
     lat: 57.4247,
     lng: 10.4969,
+    rating: 4.4,
+    reviews: 380,
   },
   {
     name: "Kystmuseet Bangsbo Fort",
@@ -1412,6 +1662,8 @@ export const venues: Venue[] = [
     url: "https://www.kystmuseet.dk/besoeg-os/kystmuseet-bangsbo-fort",
     lat: 57.4036,
     lng: 10.4481,
+    rating: 4.5,
+    reviews: 2042,
   },
   {
     name: "Kystmuseet Skagen",
@@ -1420,6 +1672,8 @@ export const venues: Venue[] = [
     url: "https://www.kystmuseet.dk/besoeg-os/kystmuseet-skagen",
     lat: 57.7215,
     lng: 10.5874,
+    rating: 4.5,
+    reviews: 497,
   },
   {
     name: "Kystmuseet Sæby",
@@ -1428,6 +1682,8 @@ export const venues: Venue[] = [
     url: "https://www.kystmuseet.dk/besoeg-os/kystmuseet-saeby",
     lat: 57.335,
     lng: 10.5225,
+    rating: 4.3,
+    reviews: 94,
   },
   {
     name: "KØN",
@@ -1436,6 +1692,8 @@ export const venues: Venue[] = [
     url: "https://konmuseum.dk/",
     lat: 56.1578,
     lng: 10.21,
+    rating: 3.7,
+    reviews: 703,
   },
   {
     name: "Københavns Museum",
@@ -1444,6 +1702,8 @@ export const venues: Venue[] = [
     url: "https://cphmuseum.kk.dk/",
     lat: 55.6722,
     lng: 12.5686,
+    rating: 4.3,
+    reviews: 1802,
   },
   {
     name: "Køge Museum",
@@ -1452,6 +1712,8 @@ export const venues: Venue[] = [
     url: "https://www.museerne.dk/koge-museum/",
     lat: 55.4567,
     lng: 12.1828,
+    rating: 4,
+    reviews: 375,
   },
   {
     name: "Landskrona Museum",
@@ -1460,6 +1722,8 @@ export const venues: Venue[] = [
     url: "https://www.landskrona.se/uppleva-och-gora/kultur/landskrona-museum/",
     lat: 55.8706,
     lng: 12.8236,
+    rating: 4.4,
+    reviews: 767,
   },
   {
     name: "Limfjordsteatret Mors",
@@ -1476,6 +1740,8 @@ export const venues: Venue[] = [
     url: "https://louisiana.dk/en/",
     lat: 55.9686,
     lng: 12.5308,
+    rating: 4.7,
+    reviews: 17678,
   },
   {
     name: "Lunds konsthall",
@@ -1484,6 +1750,8 @@ export const venues: Venue[] = [
     url: "https://lundskonsthall.se/",
     lat: 55.7067,
     lng: 13.1947,
+    rating: 4,
+    reviews: 300,
   },
   {
     name: "M/S Museet for Søfart",
@@ -1492,6 +1760,8 @@ export const venues: Venue[] = [
     url: "https://mfs.dk/",
     lat: 56.0244,
     lng: 12.6128,
+    rating: 4.4,
+    reviews: 3264,
   },
   {
     name: "MACA Museum",
@@ -1500,6 +1770,8 @@ export const venues: Venue[] = [
     url: "https://www.macamuseum.com/",
     lat: 55.6761,
     lng: 12.5683,
+    rating: 4.6,
+    reviews: 799,
   },
   {
     name: "Magasin du Nord Museum",
@@ -1508,6 +1780,8 @@ export const venues: Venue[] = [
     url: "https://magasinmuseum.dk/",
     lat: 55.6781,
     lng: 12.5803,
+    rating: 4.4,
+    reviews: 61,
   },
   {
     name: "Malergården",
@@ -1516,6 +1790,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/malergaarden/",
     lat: 55.885,
     lng: 11.6047,
+    rating: 4.4,
+    reviews: 277,
   },
   {
     name: "Malmö Konsthall",
@@ -1524,6 +1800,8 @@ export const venues: Venue[] = [
     url: "https://malmokonsthall.se/",
     lat: 55.6047,
     lng: 12.9989,
+    rating: 4.2,
+    reviews: 1203,
   },
   {
     name: "Malmö Konstmuseum",
@@ -1540,6 +1818,8 @@ export const venues: Venue[] = [
     url: "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum.html",
     lat: 55.6047,
     lng: 12.988,
+    rating: 4.4,
+    reviews: 5917,
   },
   {
     name: "MAPS - Museum of Art in Public Spaces",
@@ -1548,6 +1828,8 @@ export const venues: Venue[] = [
     url: "https://mapsmuseum.com/",
     lat: 55.4567,
     lng: 12.1828,
+    rating: 4.1,
+    reviews: 163,
   },
   {
     name: "Marnie (Cinemateket)",
@@ -1564,6 +1846,8 @@ export const venues: Venue[] = [
     url: "https://www.marmus.dk/da/",
     lat: 54.8567,
     lng: 10.5169,
+    rating: 4.6,
+    reviews: 864,
   },
   {
     name: "Medicinsk Museion",
@@ -1572,6 +1856,8 @@ export const venues: Venue[] = [
     url: "https://www.museion.ku.dk/",
     lat: 55.6867,
     lng: 12.5936,
+    rating: 4.5,
+    reviews: 1647,
   },
   {
     name: "Middelfart Museum",
@@ -1580,6 +1866,8 @@ export const venues: Venue[] = [
     url: "https://www.middelfart-museum.dk/",
     lat: 55.5059,
     lng: 9.7307,
+    rating: 4.2,
+    reviews: 41,
   },
   {
     name: "Min nabo Totoro (Cinemateket)",
@@ -1596,6 +1884,8 @@ export const venues: Venue[] = [
     url: "https://mindmuseum.dk/",
     lat: 55.5059,
     lng: 9.7307,
+    rating: 4.4,
+    reviews: 146,
   },
   {
     name: "Moderna Museet Malmö",
@@ -1604,6 +1894,8 @@ export const venues: Venue[] = [
     url: "https://www.modernamuseet.se/malmo/sv/",
     lat: 55.6017,
     lng: 12.9869,
+    rating: 4.1,
+    reviews: 1617,
   },
   {
     name: "Moesgaard Museum",
@@ -1612,6 +1904,8 @@ export const venues: Venue[] = [
     url: "https://www.moesgaardmuseum.dk/",
     lat: 56.0889,
     lng: 10.2286,
+    rating: 4.7,
+    reviews: 11891,
   },
   {
     name: "Mosede Fort",
@@ -1620,6 +1914,8 @@ export const venues: Venue[] = [
     url: "https://mosedefort.dk",
     lat: 55.5458,
     lng: 12.22,
+    rating: 4.3,
+    reviews: 1735,
   },
   {
     name: "Mothsgården",
@@ -1628,6 +1924,8 @@ export const venues: Venue[] = [
     url: "https://museer.rudersdal.dk/rum/temaer/mothsgaarden",
     lat: 55.8103,
     lng: 12.4928,
+    rating: 4.5,
+    reviews: 39,
   },
   {
     name: "Munkeruphus",
@@ -1636,6 +1934,8 @@ export const venues: Venue[] = [
     url: "https://munkeruphus.dk/",
     lat: 56.0903,
     lng: 12.3633,
+    rating: 4.5,
+    reviews: 231,
   },
   {
     name: "Museet for Religiøs Kunst",
@@ -1644,6 +1944,8 @@ export const venues: Venue[] = [
     url: "https://www.mfrk.dk/",
     lat: 56.5522,
     lng: 8.3083,
+    rating: 4,
+    reviews: 189,
   },
   {
     name: "Museet for Samtidskunst",
@@ -1652,6 +1954,8 @@ export const venues: Venue[] = [
     url: "https://samtidskunst.dk/",
     lat: 55.64,
     lng: 12.0904,
+    rating: 4.2,
+    reviews: 49,
   },
   {
     name: "Museet på Gl. Rye Mølle",
@@ -1660,6 +1964,8 @@ export const venues: Venue[] = [
     url: "https://www.museumskanderborg.dk/museet-p%C3%A5-gl-rye-m%C3%B8lle-2",
     lat: 56.0794,
     lng: 9.6436,
+    rating: 4.1,
+    reviews: 99,
   },
   {
     name: "Museet Ribes Vikinger",
@@ -1668,6 +1974,8 @@ export const venues: Venue[] = [
     url: "https://www.ribesvikinger.dk/",
     lat: 55.329,
     lng: 8.7613,
+    rating: 4.4,
+    reviews: 2421,
   },
   {
     name: "Museet Sønderskov",
@@ -1676,6 +1984,8 @@ export const venues: Venue[] = [
     url: "https://sonderskov.dk/",
     lat: 55.4678,
     lng: 9.1475,
+    rating: 4.3,
+    reviews: 291,
   },
   {
     name: "Museum ERNST",
@@ -1684,6 +1994,8 @@ export const venues: Venue[] = [
     url: "https://museumernst.dk/",
     lat: 55.3989,
     lng: 10.3881,
+    rating: 4.4,
+    reviews: 136,
   },
   {
     name: "Museum Frello",
@@ -1692,6 +2004,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/museum-frello/",
     lat: 55.6211,
     lng: 8.4808,
+    rating: 4.7,
+    reviews: 603,
   },
   {
     name: "Museum Gösta Werner",
@@ -1700,6 +2014,8 @@ export const venues: Venue[] = [
     url: "https://gostawerner.se",
     lat: 55.5503,
     lng: 14.3477,
+    rating: 4.3,
+    reviews: 25,
   },
   {
     name: "Museum Jorn",
@@ -1708,6 +2024,8 @@ export const venues: Venue[] = [
     url: "https://museumjorn.dk/",
     lat: 56.1714,
     lng: 9.5508,
+    rating: 4.3,
+    reviews: 1195,
   },
   {
     name: "Museum Ordrupgaard",
@@ -1716,6 +2034,8 @@ export const venues: Venue[] = [
     url: "https://ordrupgaard.dk/",
     lat: 55.7947,
     lng: 12.5786,
+    rating: 4.5,
+    reviews: 1445,
   },
   {
     name: "Museum Ovartaci",
@@ -1724,6 +2044,8 @@ export const venues: Venue[] = [
     url: "https://www.ovartaci.dk/",
     lat: 56.1938,
     lng: 10.2478,
+    rating: 4.5,
+    reviews: 318,
   },
   {
     name: "Museum Silkeborg",
@@ -1732,6 +2054,8 @@ export const venues: Venue[] = [
     url: "https://www.museumsilkeborg.dk/",
     lat: 56.1675,
     lng: 9.5536,
+    rating: 4.4,
+    reviews: 693,
   },
   {
     name: "Møns Museum",
@@ -1740,6 +2064,8 @@ export const venues: Venue[] = [
     url: "https://www.museerne.dk/mons-museum/",
     lat: 54.9814,
     lng: 12.3125,
+    rating: 4.3,
+    reviews: 152,
   },
   {
     name: "Møstings",
@@ -1748,6 +2074,8 @@ export const venues: Venue[] = [
     url: "https://frederiksbergmuseerne.dk/da/mostings/",
     lat: 55.6728,
     lng: 12.5336,
+    rating: 4.3,
+    reviews: 118,
   },
   {
     name: "Nasjonalmuseet",
@@ -1756,6 +2084,8 @@ export const venues: Venue[] = [
     url: "https://www.nasjonalmuseet.no",
     lat: 59.9167,
     lng: 10.7375,
+    rating: 4.6,
+    reviews: 8195,
   },
   {
     name: "Naturama",
@@ -1764,6 +2094,8 @@ export const venues: Venue[] = [
     url: "https://naturama.dk/",
     lat: 55.0598,
     lng: 10.6069,
+    rating: 4.4,
+    reviews: 1721,
   },
   {
     name: "Naturhistorisk museum",
@@ -1772,6 +2104,8 @@ export const venues: Venue[] = [
     url: "https://www.nhm.uio.no/",
     lat: 59.9206,
     lng: 10.7792,
+    rating: 4.6,
+    reviews: 3083,
   },
   {
     name: "Naturhistorisk Museum Aarhus",
@@ -1780,6 +2114,8 @@ export const venues: Venue[] = [
     url: "https://www.naturhistoriskmuseum.dk/",
     lat: 56.1511,
     lng: 10.2036,
+    rating: 4.3,
+    reviews: 260,
   },
   {
     name: "Nikolaj Kunsthal",
@@ -1788,6 +2124,8 @@ export const venues: Venue[] = [
     url: "https://nikolajkunsthal.kk.dk/en",
     lat: 55.6797,
     lng: 12.5803,
+    rating: 4.2,
+    reviews: 1426,
   },
   {
     name: "NITJA",
@@ -1796,6 +2134,8 @@ export const venues: Venue[] = [
     url: "https://www.nitja.no/",
     lat: 59.9525,
     lng: 11.0472,
+    rating: 4.3,
+    reviews: 79,
   },
   {
     name: "Nivaagaards Malerisamling",
@@ -1804,6 +2144,8 @@ export const venues: Venue[] = [
     url: "https://nivaagaard.dk/",
     lat: 55.9431,
     lng: 12.5039,
+    rating: 4.5,
+    reviews: 1405,
   },
   {
     name: "Nordatlantens Brygge",
@@ -1812,6 +2154,8 @@ export const venues: Venue[] = [
     url: "https://www.nordatlantens.dk/",
     lat: 55.6756,
     lng: 12.5906,
+    rating: 4.3,
+    reviews: 609,
   },
   {
     name: "Norsk Folkemuseum",
@@ -1820,6 +2164,8 @@ export const venues: Venue[] = [
     url: "https://norskfolkemuseum.no/",
     lat: 59.9078,
     lng: 10.6844,
+    rating: 4.6,
+    reviews: 11255,
   },
   {
     name: "Norsk Maritimt Museum",
@@ -1828,6 +2174,8 @@ export const venues: Venue[] = [
     url: "https://marmuseum.no/",
     lat: 59.9031,
     lng: 10.6986,
+    rating: 4.4,
+    reviews: 1103,
   },
   {
     name: "Nymindegab Museum",
@@ -1836,6 +2184,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/nymindegab/",
     lat: 55.7833,
     lng: 8.2569,
+    rating: 4.5,
+    reviews: 607,
   },
   {
     name: "Næstved Museum",
@@ -1844,6 +2194,8 @@ export const venues: Venue[] = [
     url: "https://www.museerne.dk/naestved-museum/",
     lat: 55.2299,
     lng: 11.7606,
+    rating: 4.3,
+    reviews: 100,
   },
   {
     name: "Næstved Teater",
@@ -1868,6 +2220,8 @@ export const venues: Venue[] = [
     url: "https://www.overgaden.org/da",
     lat: 55.6719,
     lng: 12.5889,
+    rating: 4.3,
+    reviews: 45,
   },
   {
     name: "Odense Barokfestival",
@@ -1900,6 +2254,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/odsherreds_kunstmuseum/",
     lat: 55.885,
     lng: 11.6047,
+    rating: 4.2,
+    reviews: 125,
   },
   {
     name: "Odsherreds Museum",
@@ -1908,6 +2264,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/odsherreds-museum/",
     lat: 55.9244,
     lng: 11.6685,
+    rating: 3.9,
+    reviews: 129,
   },
   {
     name: "Olivia Rodrigo: You Seem Pretty Sad for a Girl in Love",
@@ -1924,6 +2282,8 @@ export const venues: Venue[] = [
     url: "https://vardemuseerne.dk/museum/panser-artillerimuseum/",
     lat: 55.6211,
     lng: 8.4808,
+    rating: 4.5,
+    reviews: 1646,
   },
   {
     name: "Pavillon K",
@@ -1964,6 +2324,8 @@ export const venues: Venue[] = [
     url: "https://randerskunstmuseum.dk/",
     lat: 56.4607,
     lng: 10.0366,
+    rating: 4.6,
+    reviews: 430,
   },
   {
     name: "Randers Stadsarkiv",
@@ -1996,6 +2358,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/ringsted-museum-og-arkiv/",
     lat: 55.4425,
     lng: 11.7894,
+    rating: 4.2,
+    reviews: 62,
   },
   {
     name: "Rockmuseet",
@@ -2004,6 +2368,8 @@ export const venues: Venue[] = [
     url: "https://rockmuseet.dk/",
     lat: 55.6389,
     lng: 12.0842,
+    rating: 4.4,
+    reviews: 1866,
   },
   {
     name: "Rosenborg Slot",
@@ -2012,6 +2378,8 @@ export const venues: Venue[] = [
     url: "https://www.kongernessamling.dk/rosenborg/",
     lat: 55.6857,
     lng: 12.5778,
+    rating: 4.6,
+    reviews: 27381,
   },
   {
     name: "Roskilde Domkirke",
@@ -2020,6 +2388,8 @@ export const venues: Venue[] = [
     url: "https://roskildedomkirke.dk/besoeg",
     lat: 55.6424,
     lng: 12.08,
+    rating: 4.6,
+    reviews: 7506,
   },
   {
     name: "Rudolph Tegners Museum",
@@ -2028,6 +2398,8 @@ export const venues: Venue[] = [
     url: "https://www.rudolphtegner.dk/",
     lat: 56.1022,
     lng: 12.3744,
+    rating: 4.5,
+    reviews: 1131,
   },
   {
     name: "Rundetaarn",
@@ -2036,6 +2408,8 @@ export const venues: Venue[] = [
     url: "https://www.rundetaarn.dk/",
     lat: 55.6814,
     lng: 12.5758,
+    rating: 4.5,
+    reviews: 28667,
   },
   {
     name: "Skagens Museum",
@@ -2044,6 +2418,8 @@ export const venues: Venue[] = [
     url: "https://skagenskunstmuseer.dk/",
     lat: 57.7247,
     lng: 10.5408,
+    rating: 4.5,
+    reviews: 3584,
   },
   {
     name: "Skamlingsbanken",
@@ -2052,6 +2428,8 @@ export const venues: Venue[] = [
     url: "https://museumkolding.dk/arrangementer/besoegscentret-skamlingsbanken/",
     lat: 55.5164,
     lng: 9.5236,
+    rating: 4.4,
+    reviews: 437,
   },
   {
     name: "Skanderborg Bunkerne",
@@ -2060,6 +2438,8 @@ export const venues: Venue[] = [
     url: "https://www.museumskanderborg.dk/skanderborg-bunkerne-1",
     lat: 56.0333,
     lng: 9.9333,
+    rating: 4.3,
+    reviews: 167,
   },
   {
     name: "Skissernas Museum",
@@ -2068,6 +2448,8 @@ export const venues: Venue[] = [
     url: "https://skissernasmuseum.se/",
     lat: 55.7094,
     lng: 13.2189,
+    rating: 4.5,
+    reviews: 973,
   },
   {
     name: "Skovgaard Museet",
@@ -2076,6 +2458,8 @@ export const venues: Venue[] = [
     url: "https://www.skovgaardmuseet.dk/",
     lat: 56.4503,
     lng: 9.4072,
+    rating: 4.3,
+    reviews: 233,
   },
   {
     name: "Skælskør Bymuseum",
@@ -2084,6 +2468,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/skaelskoer-bymuseum/",
     lat: 55.2533,
     lng: 11.2933,
+    rating: 4.4,
+    reviews: 17,
   },
   {
     name: "Slagelse Museum",
@@ -2092,6 +2478,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/slagelse-museum/",
     lat: 55.4049,
     lng: 11.3604,
+    rating: 4.4,
+    reviews: 131,
   },
   {
     name: "SMK – Statens Museum for Kunst",
@@ -2100,6 +2488,8 @@ export const venues: Venue[] = [
     url: "https://www.smk.dk/",
     lat: 55.6886,
     lng: 12.5781,
+    rating: 4.6,
+    reviews: 6713,
   },
   {
     name: "Sophienholm",
@@ -2108,6 +2498,8 @@ export const venues: Venue[] = [
     url: "https://sophienholm.dk/k37",
     lat: 55.8011,
     lng: 12.4844,
+    rating: 4.3,
+    reviews: 1152,
   },
   {
     name: "Sorø Kunstmuseum",
@@ -2116,6 +2508,8 @@ export const venues: Venue[] = [
     url: "https://xn--sorkunstmuseum-sqb.dk/",
     lat: 55.4317,
     lng: 11.5567,
+    rating: 4.3,
+    reviews: 311,
   },
   {
     name: "Sorø Museum",
@@ -2124,6 +2518,8 @@ export const venues: Venue[] = [
     url: "https://vestmuseum.dk/soroe-museum/",
     lat: 55.4317,
     lng: 11.5567,
+    rating: 4.4,
+    reviews: 16,
   },
   {
     name: "Staldgården",
@@ -2132,6 +2528,8 @@ export const venues: Venue[] = [
     url: "https://museumkolding.dk/staldgaarden/",
     lat: 55.4902,
     lng: 9.4773,
+    rating: 4.3,
+    reviews: 94,
   },
   {
     name: "Statarmuseet i Skåne",
@@ -2140,6 +2538,8 @@ export const venues: Venue[] = [
     url: "https://statarmuseet.com/museet/",
     lat: 55.6,
     lng: 13.1117,
+    rating: 4.3,
+    reviews: 303,
   },
   {
     name: "Statens Naturhistoriske Museum",
@@ -2148,6 +2548,8 @@ export const venues: Venue[] = [
     url: "https://snm.dk/",
     lat: 55.6875,
     lng: 12.5728,
+    rating: 4.1,
+    reviews: 3616,
   },
   {
     name: "Steno Museet",
@@ -2156,6 +2558,8 @@ export const venues: Venue[] = [
     url: "https://sciencemuseerne.dk/steno-museet",
     lat: 56.1511,
     lng: 10.2036,
+    rating: 4.5,
+    reviews: 818,
   },
   {
     name: "Stevns Klint Experience",
@@ -2164,6 +2568,8 @@ export const venues: Venue[] = [
     url: "https://stevnsklint.dk/",
     lat: 55.245,
     lng: 12.45,
+    rating: 4.5,
+    reviews: 507,
   },
   {
     name: "Stevns Teaterforening",
@@ -2188,6 +2594,8 @@ export const venues: Venue[] = [
     url: "https://frederiksbergmuseerne.dk/da/storm/",
     lat: 55.6761,
     lng: 12.5683,
+    rating: 4.3,
+    reviews: 443,
   },
   {
     name: "Strandingsmuseum St. George",
@@ -2196,6 +2604,8 @@ export const venues: Venue[] = [
     url: "https://strandingsmuseet.dk/",
     lat: 56.37,
     lng: 8.135,
+    rating: 4.7,
+    reviews: 2934,
   },
   {
     name: "Struer Museum",
@@ -2220,6 +2630,8 @@ export const venues: Venue[] = [
     url: "https://www.svedinos.se/",
     lat: 56.808633,
     lng: 12.623917,
+    rating: 4.4,
+    reviews: 610,
   },
   {
     name: "Syddjurs Egnsteater",
@@ -2244,6 +2656,8 @@ export const venues: Venue[] = [
     url: "https://msj.dk/soenderborg-slot/",
     lat: 54.9111,
     lng: 9.7847,
+    rating: 4.4,
+    reviews: 5927,
   },
   {
     name: "Sønderjyllands Symfoniorkester",
@@ -2308,6 +2722,8 @@ export const venues: Venue[] = [
     url: "https://museummidtjylland.dk/tekstilmuseet/",
     lat: 56.1362,
     lng: 8.9768,
+    rating: 4.2,
+    reviews: 212,
   },
   {
     name: "The Babadook (Cinemateket)",
@@ -2340,6 +2756,8 @@ export const venues: Venue[] = [
     url: "https://museumthy.dk/",
     lat: 56.9553,
     lng: 8.6933,
+    rating: 4.5,
+    reviews: 89,
   },
   {
     name: "Thorvaldsens Museum",
@@ -2348,6 +2766,8 @@ export const venues: Venue[] = [
     url: "https://www.thorvaldsensmuseum.dk/",
     lat: 55.6767,
     lng: 12.5783,
+    rating: 4.5,
+    reviews: 1654,
   },
   {
     name: "TID - Museum for Odense",
@@ -2356,6 +2776,8 @@ export const venues: Venue[] = [
     url: "https://tidmuseum.dk/",
     lat: 55.4038,
     lng: 10.4024,
+    rating: 4.3,
+    reviews: 906,
   },
   {
     name: "Tidens Samling",
@@ -2364,6 +2786,8 @@ export const venues: Venue[] = [
     url: "https://tidenssamling.dk/",
     lat: 55.3972,
     lng: 10.3869,
+    rating: 4.6,
+    reviews: 332,
   },
   {
     name: "Tirpitz",
@@ -2372,6 +2796,8 @@ export const venues: Venue[] = [
     url: "https://tirpitz.dk/",
     lat: 55.5453,
     lng: 8.2044,
+    rating: 4.5,
+    reviews: 11469,
   },
   {
     name: "Tycho Brahe Museet",
@@ -2380,6 +2806,8 @@ export const venues: Venue[] = [
     url: "https://www.landskrona.se/uppleva-och-gora/kultur/tycho-brahe-museet/",
     lat: 55.9208,
     lng: 12.7781,
+    rating: 4.1,
+    reviews: 691,
   },
   {
     name: "Utzon Center",
@@ -2388,6 +2816,8 @@ export const venues: Venue[] = [
     url: "https://utzoncenter.dk/en",
     lat: 57.0558,
     lng: 9.9325,
+    rating: 4.4,
+    reviews: 820,
   },
   {
     name: "Vadehavscentret",
@@ -2396,6 +2826,8 @@ export const venues: Venue[] = [
     url: "https://www.vadehavscentret.dk",
     lat: 55.3064,
     lng: 8.6939,
+    rating: 4.4,
+    reviews: 2750,
   },
   {
     name: "Vedbækfundene",
@@ -2404,6 +2836,8 @@ export const venues: Venue[] = [
     url: "https://vedbaekfundene.rudersdal.dk/",
     lat: 55.8469,
     lng: 12.5667,
+    rating: 4.6,
+    reviews: 33,
   },
   {
     name: "Vejen Kunstmuseum",
@@ -2412,6 +2846,8 @@ export const venues: Venue[] = [
     url: "https://www.vejenkunstmuseum.dk/",
     lat: 55.4753,
     lng: 9.1422,
+    rating: 4.5,
+    reviews: 284,
   },
   {
     name: "Vendsyssel Historiske Museum",
@@ -2420,6 +2856,8 @@ export const venues: Venue[] = [
     url: "https://vhm.dk/",
     lat: 57.2686,
     lng: 9.9439,
+    rating: 4.5,
+    reviews: 265,
   },
   {
     name: "Vendsyssel Kunstmuseum",
@@ -2428,6 +2866,8 @@ export const venues: Venue[] = [
     url: "https://vkm.dk/",
     lat: 57.4597,
     lng: 9.9928,
+    rating: 4.5,
+    reviews: 235,
   },
   {
     name: "Vendsyssel Teater",
@@ -2452,6 +2892,8 @@ export const venues: Venue[] = [
     url: "https://www.vesthimmerlandsmuseum.dk/Forside",
     lat: 56.8025,
     lng: 9.5189,
+    rating: 4.2,
+    reviews: 93,
   },
   {
     name: "Vikingemuseet Fyrkat",
@@ -2460,6 +2902,8 @@ export const venues: Venue[] = [
     url: "https://nordjyskemuseer.dk/u/vikingemuseet-fyrkat/",
     lat: 56.5864,
     lng: 9.57,
+    rating: 4.4,
+    reviews: 1504,
   },
   {
     name: "Vikingemuseet Ladby",
@@ -2468,6 +2912,8 @@ export const venues: Venue[] = [
     url: "https://vikingemuseetladby.dk/",
     lat: 55.4392,
     lng: 10.6178,
+    rating: 4.4,
+    reviews: 2027,
   },
   {
     name: "Vikingemuseet Lindholm Høje",
@@ -2476,6 +2922,8 @@ export const venues: Venue[] = [
     url: "https://nordjyskemuseer.dk/u/vikingemuseet-lindholm-hoje/",
     lat: 57.0769,
     lng: 9.9078,
+    rating: 4.5,
+    reviews: 2250,
   },
   {
     name: "Vikingeskibsmuseet Roskilde",
@@ -2484,6 +2932,8 @@ export const venues: Venue[] = [
     url: "https://www.vikingeskibsmuseet.dk/",
     lat: 55.6506,
     lng: 12.0797,
+    rating: 4.5,
+    reviews: 3381,
   },
   {
     name: "Vorupør Museum",
@@ -2492,6 +2942,8 @@ export const venues: Venue[] = [
     url: "https://museumthy.dk/",
     lat: 56.7639,
     lng: 8.3739,
+    rating: 4.4,
+    reviews: 68,
   },
   {
     name: "Willumsens Museum",
@@ -2500,6 +2952,8 @@ export const venues: Venue[] = [
     url: "https://www.willumsensmuseum.dk",
     lat: 55.8411,
     lng: 12.0686,
+    rating: 4.4,
+    reviews: 508,
   },
   {
     name: "X (Cinemateket)",
@@ -2516,6 +2970,8 @@ export const venues: Venue[] = [
     url: "https://www.ystad.se/konstmuseet",
     lat: 55.4317,
     lng: 13.8208,
+    rating: 4.2,
+    reviews: 150,
   },
   {
     name: "Ærø Museum",
@@ -2524,6 +2980,8 @@ export const venues: Venue[] = [
     url: "https://aeroemuseum.dk/",
     lat: 54.8892,
     lng: 10.4144,
+    rating: 4.4,
+    reviews: 39,
   },
   {
     name: "Øm Kloster Museum",
@@ -2532,6 +2990,8 @@ export const venues: Venue[] = [
     url: "https://www.museumskanderborg.dk/%C3%B8m-kloster",
     lat: 56.0831,
     lng: 9.7419,
+    rating: 3.9,
+    reviews: 331,
   },
 ];
 
