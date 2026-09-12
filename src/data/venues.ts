@@ -12,6 +12,8 @@ export interface Venue {
   url?: string;
   lat: number;
   lng: number;
+  rating?: number;
+  reviews?: number;
 }
 
 export type VenueRegion =
