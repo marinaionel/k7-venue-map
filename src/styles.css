@@ -85,6 +85,39 @@ body,
   border: 2px solid #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
   cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.venue-marker-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.venue-marker-score {
+  transform: rotate(45deg);
+  color: #fff;
+  font-size: 9px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.venue-marker-count {
+  margin-top: 4px;
+  padding: 1px 5px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--border);
+  color: #374151;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
 }
 
 .venue-marker:hover {

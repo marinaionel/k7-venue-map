@@ -1,6 +1,7 @@
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import type { Venue, VenueType } from "./data/venues";
+import { formatRating, formatReviewCount } from "./rating";
 
 const TYPE_COLORS: Record<VenueType, string> = {
   Museum: "#0f766e",
@@ -27,11 +28,34 @@ const MAX_BOUNDS: [[number, number], [number, number]] = [
   [15, 60],
 ];
 
-const createMarkerElement = (type: VenueType): HTMLDivElement => {
+const createMarkerElement = (venue: Venue): HTMLDivElement => {
   const el = document.createElement("div");
   el.className = "venue-marker";
-  el.style.setProperty("--marker-color", TYPE_COLORS[type]);
-  el.setAttribute("data-type", type);
+  el.style.setProperty("--marker-color", TYPE_COLORS[venue.type]);
+  el.setAttribute("data-type", venue.type);
+
+  if (
+    venue.type === "Museum" &&
+    venue.rating !== undefined &&
+    venue.reviews !== undefined
+  ) {
+    const wrap = document.createElement("div");
+    wrap.className = "venue-marker-wrap";
+
+    const score = document.createElement("span");
+    score.className = "venue-marker-score";
+    score.textContent = formatRating(venue.rating);
+    el.appendChild(score);
+
+    const count = document.createElement("div");
+    count.className = "venue-marker-count";
+    count.textContent = formatReviewCount(venue.reviews);
+
+    wrap.appendChild(el);
+    wrap.appendChild(count);
+    return wrap;
+  }
+
   return el;
 };
 
@@ -95,7 +119,7 @@ export const createVenueMap = (
     }
     markers = [...byCoordinate.values()].map((venue) => {
       const marker = new maplibregl.Marker({
-        element: createMarkerElement(venue.type),
+        element: createMarkerElement(venue),
       })
         .setLngLat([venue.lng, venue.lat])
         .setPopup(new maplibregl.Popup({ offset: 18 }).setHTML(popupContent(venue)))
